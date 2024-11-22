@@ -17,7 +17,7 @@ To build and run **Clapp** from source, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clapp.git
+   git clone https://github.com/HichamLamine/clapp.git
    cd clapp
    # Create the build directory and cd into it:
    mkdir build
